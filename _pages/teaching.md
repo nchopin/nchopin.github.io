@@ -10,7 +10,8 @@ author_profile: true
 
 * simulation and Monte Carlo methods: [slides](/files/slides_mc.pdf)
 
-* State-space models and sequential Monte Carlo methods
+* State-space models and sequential Monte Carlo methods:
+  [slides](/files/slides_pf.pdf)
 
 # M2 MVA (ENS Paris-Saclay)
 

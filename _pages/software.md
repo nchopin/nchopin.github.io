@@ -20,11 +20,13 @@ Software developed by me and/or co-authors for various previous papers:
 
 * [cabsde](http://chopin.perso.math.cnrs.fr/cabsde.tgz) (python): Computational aspects of Bayesian spectral density estimation.
 
-* [py-smc2](https://github.com/nchopin/py-smc2) (python): Pierre Jacob‘s implementation of SMC^2.
+* [py-smc2](https://github.com/nchopin/py-smc2) (python): [Pierre
+  Jacob](https://sites.google.com/site/pierrejacob/)‘s implementation of SMC^2.
 
 * [truncgauss](http://chopin.perso.math.cnrs.fr/truncgauss.tgz) (python + C):
-  Fast simulation of Truncated Gaussian distribution, see also Vincent Mazet’s
-  Matlab implementation.
+  Fast simulation of Truncated Gaussian distribution, see also [Vincent
+  Mazet](http://miv.u-strasbg.fr/mazet/mazet-fr.html)’s Matlab implementation.
 
 * [ep-abc](https://sites.google.com/site/simonbarthelme/software) (matlab):
-  EP-ABC (jointly written with Simon Barthelmé).
+  EP-ABC (jointly written with [Simon
+  Barthelmé](https://barthesi.gricad-pages.univ-grenoble-alpes.fr/)).

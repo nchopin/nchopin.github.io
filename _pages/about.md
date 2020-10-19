@@ -42,4 +42,4 @@ I rarely find the time to review extra papers for other journals, sorry.
 
 ## News
 
-* forthcoming book on Sequential Monte Carlo, see [here](/books/).
+* new book on Sequential Monte Carlo, see [here](/books/).

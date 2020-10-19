@@ -6,16 +6,15 @@ author_profile: true
 
 ![smc_book](../images/cover_smc_book.jpg)
 
-An introduction to Sequential Monte Carlo
+**An introduction to Sequential Monte Carlo**
 
-Nicolas Chopin and Omiros Papaspiliopoulos
+Nicolas Chopin and [Omiros Papaspiliopoulos](http://www.econ.upf.edu/~omiros/)
 
-Due in October 2020.  Available for pre-order
-[here](https://www.springer.com/gp/book/9783030478445).  See
+Available [here](https://www.springer.com/gp/book/9783030478445).  See
 [software](/software) for the accompanying Python library,
 [particles](https://github.com/nchopin/particles). 
 
-Chapters: 
+**Chapters**:
 
 1. Introduction
 2. Introduction to state-space models
