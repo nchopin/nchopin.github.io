@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Nicolas Chopin"
 title_separator          : "-"
 name                     : &name "Nicolas Chopin"
-description              : &description "personal description"
+description              : &description "Nicolas Chopin's web page"
 url                      : https://nchopin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -52,7 +52,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google-site-verification : bG9j4uYnPshT_vUA6AsxwzqkFibMlLXNUARfGGz4yzQ
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -267,6 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
