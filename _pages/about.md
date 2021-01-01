@@ -20,7 +20,21 @@ algorithms to perform Bayesian inference, including:
 
 * fast approximations: e.g. Expectation Propagation and variational Bayes.
 
-## Projects I'm currently involved with 
+## News
+
+* new book on Sequential Monte Carlo, see [here](/books/).
+
+## Editorial responsibilities
+
+I am currently an Associate editor for:
+
+* [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
+
+* [Biometrika](https://academic.oup.com/biomet)
+
+I rarely find the time to review extra papers for other journals, sorry. 
+
+## Other things I'm involved with
 
 * [B3DCMB](http://b3dcmb.in2p3.fr/): big bang from big data (funded by ANR)
 
@@ -28,18 +42,5 @@ algorithms to perform Bayesian inference, including:
   demon](https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/):
   seminar about Bayesian machine learning at scale (supported by Criteo)
 
-## Editorial responsibilities
+* The computation [section](https://bayesian.org/sectionschapters/computation/) of [ISBA](https://bayesian.org)
 
-I am currently an Associate editor for:
-
-* Annals of Statistics
-
-* Biometrika
-
-* Journal of the Royal Statistical Series B 
-
-I rarely find the time to review extra papers for other journals, sorry. 
-
-## News
-
-* new book on Sequential Monte Carlo, see [here](/books/).
