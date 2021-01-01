@@ -35,3 +35,5 @@ Available [here](https://www.springer.com/gp/book/9783030478445).  See
 17. SMC samplers
 18. SMC^2, sequential inference in state-space models
 19. Advanced topics and open problems
+
+**Typos**: see [here](/book_typos). 
