@@ -11,7 +11,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/  
-    
+
+  - title: "Shared blog"
+    url: https://statisfaction.wordpress.com/    
+
   - title: "CV"
     url: /files/cv.pdf
     

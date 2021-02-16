@@ -4,8 +4,8 @@ permalink: /book_typos
 author_profile: true
 ---
 
-Here is the list of currently known typos in the book (thanks to Adrien
-Corenflos for spotting them). 
+Here is the list of currently known typos in the book (thanks to 
+Adrien Corenflos and Adam Johansen for spotting them). 
 
 * 92, equation below (8.5): missing sup (with respect to phi)
 
@@ -17,5 +17,8 @@ Corenflos for spotting them).
 
 * 171, Lemma 1.2: assumption that G_t is upper bounded is not required. 
 
+* 176: Proposition 11.2 should be Proposition 11.5. 
+
 * 282, first line: give(n) proposal
 
+In addition, there 
