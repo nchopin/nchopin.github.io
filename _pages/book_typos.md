@@ -11,7 +11,7 @@ Adrien Corenflos, Adam Johansen and Otmane Sakhi for spotting them).
 
 * 100, Exercise 8.7: the fact that the former estimator dominates the latter
   (in terms of asymptotic variance) is equivalent to the stated equality
-  provided Q(phi)<0 (this condition is omitted in the book). Moreover, when w
+  provided Q(phi)>0 (this condition is omitted in the book). Moreover, when w
   is an indicator function, one has equality (both estimators have the same
   variance asymptotically). 
 
