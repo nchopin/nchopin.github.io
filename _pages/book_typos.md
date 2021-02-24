@@ -28,7 +28,8 @@ Thanks to Adrien Corenflos for spotting most of the typos below.
 
 * 92, equation below (8.5): missing sup (with respect to phi)
 
-* 92, Theorem 8.5: [w] missing just before big closing parenthesis
+* 92, Theorem 8.5: [w] missing just before big closing parenthesis (spotted by 
+  Chihiro Kuraya)
 
 * 116, second equation in Lemma 9.2: V_n should be V^n 
 
