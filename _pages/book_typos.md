@@ -26,13 +26,27 @@ parentheses).  Feel free to contact me if you find others.
 
 # Typos
 
+* 41, second equation: missing dx_{t-1} in the integral (Chihiro Kuraya)
+
+* 44, first equation: f_t should be f_s (Chihiro Kuraya)
+
 * 92, equation below (8.5): missing sup with respect to phi (Adrien Corenflos)
 
 * 92, Theorem 8.5: [w] missing just before big closing parenthesis (Chihiro Kuraya)
 
 * 116, second equation in Lemma 9.2: V_n should be V^n (Adrien Corenflos)
 
+* 117, equation on last line: n and n - 1 should be superscripts;  
+also interval [n-1/N, n/N] should be [(m-1)/N, m/N] (Chihiro Kuraya)
+
+* 118: same issue in first multi-line equation: replace n by m in the interval
+  [n-1/N, n/N], and below the sum (second line). 
+(Chihiro Kuraya)
+
 * 119_5: estimate(d) -> estimates (Adrien Corenflos)
+
+* 130, Algorithm 10.1: resampling step should be based on weights 
+W_{t-1}^{1:N}, not W_t^{1:N} (Chihiro Kuraya)
 
 * 139: the following Radon-Nykodym derive (s) exist (Adrien Corenflos)
 
