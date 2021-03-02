@@ -30,6 +30,9 @@ parentheses).  Feel free to contact me if you find others.
 
 * 44, first equation: f_t should be f_s (Chihiro Kuraya)
 
+* 63, (5.17), top line: the first probability distribution should be with respect to X_t,
+  not X_{t-1}; i.e. P_t(X_t \in dx_t | Y_{0:t} = y_{0:t}) (Giovanni Diana)
+
 * 92, equation below (8.5): missing sup with respect to phi (Adrien Corenflos)
 
 * 92, Theorem 8.5: [w] missing just before big closing parenthesis (Chihiro Kuraya)
