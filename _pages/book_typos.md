@@ -60,5 +60,5 @@ W_{t-1}^{1:N}, not W_t^{1:N} (Chihiro Kuraya)
 * 282, first line: give(n) proposal (Adrien Corenflos)
 
 * 337, Algorithm 17.3, second line of the else block: replace Theta_t^n by
-  Theta_t^{A_t^n}
+  Theta_t^{A_t^n} (Adrien Corenflos)
 
