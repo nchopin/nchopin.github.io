@@ -1,0 +1,40 @@
+---
+title: "New web-site"
+description: "Quarto is great"
+date: "27 June 2023"
+categories:
+  - tools
+---
+
+Hi everyone, welcome to my new, shiny, [quarto](https://quarto.org/)-based web-site.
+
+I moved my website to github a few years ago, and tried to use Jekyll, as
+recommended by the [github pages](https://docs.github.com/en/pages)
+documentation. However, Jekyll seems to be a bit overkill for a simple academic
+website. I tried to start from this
+[template](https://academicpages.github.io/), but I found it difficult to adapt
+it even a little bit (and it's not maintained anymore)
+
+Bottom line: I strongly recommend [quarto](https://quarto.org/), it took me much less time to obtain
+the website I am happy with, it also looks more flexible (for my use), the
+documentation is great, and I even managed to add this blog (which is not
+something I dared to do with Jekyll).
+
+Also, math support is great: $2+\int_0^1 f(x) dx$. You can also type code: 
+```{python}
+#| label: fig-polar
+#| fig-cap: "A line plot on a polar axis"
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(
+  subplot_kw = {'projection': 'polar'} 
+)
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```

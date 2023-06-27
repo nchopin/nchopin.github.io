@@ -1,0 +1,56 @@
+---
+title: "Nicolas Chopin"
+image: pomme.jpg
+about:
+  template: trestles
+  links:
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: "https://scholar.google.co.uk/citations?user=pXG4LfoAAAAJ"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/nicolas-chopin-442a78102"
+    - text: Mastodon
+      icon: mastodon
+      url: "https://mathstodon.xyz/@nchopin" 
+    - text: GitHub
+      icon: github
+      url: "https://github.com/nchopin"
+    - text: Email
+      icon: mailbox
+      url: "nicolas.chopin@ensae.fr"
+    - text: "{{< ai researchgate >}} Researchgate"
+      url: "https://www.researchgate.net/profile/Nicolas-Chopin-4"
+    - text: "{{< ai orcid >}} ORCID"
+      url: "https://orcid.org/0000-0002-0628-5815"
+    - text: "{{< ai semantic-scholar >}} Semantic scholar"
+      url : "https://www.semanticscholar.org/author/N.-Chopin/2593810"
+comments: false
+---
+
+## About me
+
+I am a Professor of Data Sciences/Statistics/Machine Learning at
+[ENSAE](https://www.ensae.fr/en/), [Institut Polytechnique de
+Paris](https://www.ip-paris.fr/en).
+
+I am interested in all aspects of **Bayesian computation**, that is
+algorithms to perform Bayesian inference, including: 
+
+* Monte Carlo methods: particularly Sequential Monte Carlo, but also plain,
+  quasi- and Markov chain Monte Carlo;
+
+* fast approximations: e.g. Expectation Propagation and variational Bayes.
+
+I wrote a book on Sequential Monte Carlo, see [here](/books/); for the accompanying
+python library, see [here](/software/).
+
+## Editorial responsibilities
+
+I am currently an Associate editor for:
+
+* [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
+
+* [Biometrika](https://academic.oup.com/biomet)
+
+I rarely find the time to review extra papers for other journals, sorry. 
+

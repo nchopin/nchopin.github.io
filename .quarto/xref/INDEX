@@ -1,0 +1,29 @@
+{
+  "software.qmd": {
+    "software.html": "7ca70027"
+  },
+  "teaching.qmd": {
+    "teaching.html": "f67f336f"
+  },
+  "index.qmd": {
+    "index.html": "2278aeb0"
+  },
+  "about.qmd": {
+    "about.html": "dfa36030"
+  },
+  "books.qmd": {
+    "books.html": "de1d47bd"
+  },
+  "papers.qmd": {
+    "papers.html": "2e067741"
+  },
+  "blog.qmd": {
+    "blog.html": "a00c51a7"
+  },
+  "posts/2023-06-27-test/index.qmd": {
+    "index.html": "27d567aa"
+  },
+  "book_typos.qmd": {
+    "book_typos.html": "1d137516"
+  }
+}
