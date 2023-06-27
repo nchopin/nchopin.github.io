@@ -42,7 +42,8 @@ algorithms to perform Bayesian inference, including:
 * fast approximations: e.g. Expectation Propagation and variational Bayes.
 
 Omiros Papaspiliopoulos and I wrote a book on Sequential Monte Carlo, see 
-[here](/books/); for the accompanying python library, see [here](/software/).
+[here](books.html); for the accompanying python library, see
+[here](software.html).
 
 ## Editorial responsibilities
 
