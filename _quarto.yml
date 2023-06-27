@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Nicolas Chopin"
+  site-url: https://nchopin.github.io/
+  description: "NC's website"
   navbar:
     right:
       - text: "Home"

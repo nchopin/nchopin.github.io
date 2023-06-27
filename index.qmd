@@ -4,26 +4,26 @@ image: pomme.jpg
 about:
   template: trestles
   links:
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      url: "https://scholar.google.co.uk/citations?user=pXG4LfoAAAAJ"
-    - text: LinkedIn
-      icon: linkedin
-      url: "https://linkedin.com/in/nicolas-chopin-442a78102"
-    - text: Mastodon
-      icon: mastodon
-      url: "https://mathstodon.xyz/@nchopin" 
     - text: GitHub
       icon: github
       url: "https://github.com/nchopin"
-    - text: Email
-      icon: mailbox
-      url: "nicolas.chopin@ensae.fr"
-    - text: "{{< ai researchgate >}} Researchgate"
-      url: "https://www.researchgate.net/profile/Nicolas-Chopin-4"
+    - text: Mastodon
+      icon: mastodon
+      url: "https://mathstodon.xyz/@nchopin" 
     - text: "{{< ai orcid >}} ORCID"
       url: "https://orcid.org/0000-0002-0628-5815"
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: "https://scholar.google.co.uk/citations?user=pXG4LfoAAAAJ"
     - text: "{{< ai semantic-scholar >}} Semantic scholar"
       url : "https://www.semanticscholar.org/author/N.-Chopin/2593810"
+    - text: "{{< ai researchgate >}} Researchgate"
+      url: "https://www.researchgate.net/profile/Nicolas-Chopin-4"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/nicolas-chopin-442a78102"
+    - text: Email
+      icon: mailbox
+      href: mailto:nicolas.chopin@ensae.fr
 comments: false
 ---
 
@@ -41,8 +41,8 @@ algorithms to perform Bayesian inference, including:
 
 * fast approximations: e.g. Expectation Propagation and variational Bayes.
 
-I wrote a book on Sequential Monte Carlo, see [here](/books/); for the accompanying
-python library, see [here](/software/).
+Omiros Papaspiliopoulos and I wrote a book on Sequential Monte Carlo, see 
+[here](/books/); for the accompanying python library, see [here](/software/).
 
 ## Editorial responsibilities
 
