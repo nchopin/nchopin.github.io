@@ -20,8 +20,8 @@
 
 
 <p>Hi everyone, welcome to my new, shiny, <a href="https://quarto.org/">quarto</a>-based web-site.</p>
-<p>I moved my website to github a few years ago, and tried to use Jekyll, as recommended by the <a href="https://docs.github.com/en/pages">github pages</a> documentation. However, Jekyll seems to be a bit overkill for a simple academic website. I tried to start from this <a href="https://academicpages.github.io/">template</a>, but I found it difficult to adapt it even a little bit (and it’s not maintained anymore)</p>
-<p>Bottom line: I strongly recommend <a href="https://quarto.org/">quarto</a>, it took me much less time to obtain the website I am happy with, it also looks more flexible (for my use), the documentation is great, and I even managed to add this blog (which is not something I dared to do with Jekyll).</p>
+<p>Before that, I was using Jekyll, as recommended by the <a href="https://docs.github.com/en/pages">github pages</a> documentation. However, Jekyll is really overkill for a simple academic website (and a simpleton like myself). I tried different things, and ended up using this <a href="https://academicpages.github.io/">template</a>, but I found it difficult to adapt to my needs (and it’s not maintained anymore).</p>
+<p>Long story short: I have just switched to <a href="https://quarto.org/">quarto</a>, and I am very glad I did. I manage to do more advanced things (like adding a blog) in much less time.</p>
 <p>Also, math support is great: <img src="https://latex.codecogs.com/png.latex?2+%5Cint_0%5E1%20f(x)%20dx">. You can also type code:</p>
 <div class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;

@@ -4,7 +4,7 @@
     "href": "posts/2023-06-27-test/index.html",
     "title": "New web-site",
     "section": "",
-    "text": "Hi everyone, welcome to my new, shiny, quarto-based web-site.\nI moved my website to github a few years ago, and tried to use Jekyll, as recommended by the github pages documentation. However, Jekyll seems to be a bit overkill for a simple academic website. I tried to start from this template, but I found it difficult to adapt it even a little bit (and it’s not maintained anymore)\nBottom line: I strongly recommend quarto, it took me much less time to obtain the website I am happy with, it also looks more flexible (for my use), the documentation is great, and I even managed to add this blog (which is not something I dared to do with Jekyll).\nAlso, math support is great: \\(2+\\int_0^1 f(x) dx\\). You can also type code:\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\nFigure 1: A line plot on a polar axis"
+    "text": "Hi everyone, welcome to my new, shiny, quarto-based web-site.\nBefore that, I was using Jekyll, as recommended by the github pages documentation. However, Jekyll is really overkill for a simple academic website (and a simpleton like myself). I tried different things, and ended up using this template, but I found it difficult to adapt to my needs (and it’s not maintained anymore).\nLong story short: I have just switched to quarto, and I am very glad I did. I manage to do more advanced things (like adding a blog) in much less time.\nAlso, math support is great: \\(2+\\int_0^1 f(x) dx\\). You can also type code:\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
     "objectID": "book_typos.html",
@@ -18,7 +18,7 @@
     "href": "blog.html",
     "title": "Nicolas’ blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nNew web-site\n\n\n\n\n\n\n\ntools\n\n\n\n\nQuarto is great\n\n\n\n\n\n\nJun 27, 2023\n\n\nNicolas Chopin\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nNew web-site\n\n\n\n\n\n\n\ntools\n\n\n\n\nWow, Quarto is great.\n\n\n\n\n\n\nJun 27, 2023\n\n\nNicolas Chopin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "software.html",
@@ -74,21 +74,21 @@
     "href": "index.html",
     "title": "Nicolas Chopin",
     "section": "",
-    "text": "I am a Professor of Data Sciences/Statistics/Machine Learning at ENSAE, Institut Polytechnique de Paris.\nI am interested in all aspects of Bayesian computation, that is algorithms to perform Bayesian inference, including:\n\nMonte Carlo methods: particularly Sequential Monte Carlo, but also plain, quasi- and Markov chain Monte Carlo;\nfast approximations: e.g. Expectation Propagation and variational Bayes.\n\nOmiros Papaspiliopoulos and I wrote a book on Sequential Monte Carlo, see here; for the accompanying python library, see here."
+    "text": "I am a Professor of Data Sciences/Statistics/Machine Learning at ENSAE, Institut Polytechnique de Paris.\nI am particularly interested in all aspects of Bayesian computation, that is algorithms to perform Bayesian inference, including:\n\nMonte Carlo methods: particularly Sequential Monte Carlo, but also plain, quasi- and Markov chain Monte Carlo;\nfast approximations: e.g. Expectation Propagation and variational Bayes.\n\nOn this site you can find more information on the book I co-authored on SMC, the python library I am developing, particles, and a full list of my publications. I also blog from time to time."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Nicolas Chopin",
     "section": "",
-    "text": "I am a Professor of Data Sciences/Statistics/Machine Learning at ENSAE, Institut Polytechnique de Paris.\nI am interested in all aspects of Bayesian computation, that is algorithms to perform Bayesian inference, including:\n\nMonte Carlo methods: particularly Sequential Monte Carlo, but also plain, quasi- and Markov chain Monte Carlo;\nfast approximations: e.g. Expectation Propagation and variational Bayes.\n\nOmiros Papaspiliopoulos and I wrote a book on Sequential Monte Carlo, see here; for the accompanying python library, see here."
+    "text": "I am a Professor of Data Sciences/Statistics/Machine Learning at ENSAE, Institut Polytechnique de Paris.\nI am particularly interested in all aspects of Bayesian computation, that is algorithms to perform Bayesian inference, including:\n\nMonte Carlo methods: particularly Sequential Monte Carlo, but also plain, quasi- and Markov chain Monte Carlo;\nfast approximations: e.g. Expectation Propagation and variational Bayes.\n\nOn this site you can find more information on the book I co-authored on SMC, the python library I am developing, particles, and a full list of my publications. I also blog from time to time."
   },
   {
     "objectID": "index.html#editorial-responsibilities",
     "href": "index.html#editorial-responsibilities",
     "title": "Nicolas Chopin",
     "section": "Editorial responsibilities",
-    "text": "Editorial responsibilities\nI am currently an Associate editor for:\n\nAnnals of Statistics\nBiometrika\n\nI rarely find the time to review extra papers for other journals, sorry."
+    "text": "Editorial responsibilities\nI am currently an Associate editor of the following journals:\n\nAnnals of Statistics\nBiometrika\n\nI rarely find the time to review papers for other journals, sorry."
   },
   {
     "objectID": "about.html",

@@ -1,8 +1,9 @@
 ---
 title: "Nicolas Chopin"
-image: pomme.jpg
 about:
   template: trestles
+  image: pomme.jpg
+  image-shape: round
   links:
     - text: GitHub
       icon: github
@@ -22,7 +23,7 @@ about:
       icon: linkedin
       url: "https://linkedin.com/in/nicolas-chopin-442a78102"
     - text: Email
-      icon: mailbox
+      icon: envelope
       href: mailto:nicolas.chopin@ensae.fr
 comments: false
 ---
@@ -33,25 +34,26 @@ I am a Professor of Data Sciences/Statistics/Machine Learning at
 [ENSAE](https://www.ensae.fr/en/), [Institut Polytechnique de
 Paris](https://www.ip-paris.fr/en).
 
-I am interested in all aspects of **Bayesian computation**, that is
-algorithms to perform Bayesian inference, including: 
+I am particularly interested in all aspects of **Bayesian computation**, that
+is algorithms to perform Bayesian inference, including: 
 
 * Monte Carlo methods: particularly Sequential Monte Carlo, but also plain,
   quasi- and Markov chain Monte Carlo;
 
 * fast approximations: e.g. Expectation Propagation and variational Bayes.
 
-Omiros Papaspiliopoulos and I wrote a book on Sequential Monte Carlo, see 
-[here](books.html); for the accompanying python library, see
-[here](software.html).
+On this site you can find more information on the [book](books.html) I
+co-authored on SMC, the python library I am developing,
+[particles](software.html), and a full list of my [publications](papers.html).
+I also [blog](blog.html) from time to time. 
 
 ## Editorial responsibilities
 
-I am currently an Associate editor for:
+I am currently an Associate editor of the following journals:
 
 * [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
 
 * [Biometrika](https://academic.oup.com/biomet)
 
-I rarely find the time to review extra papers for other journals, sorry. 
+I rarely find the time to review papers for other journals, sorry. 
 
