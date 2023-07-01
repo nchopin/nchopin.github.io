@@ -2,6 +2,7 @@
 title: "New web-site"
 description: "Wow, Quarto is great."
 date: "27 June 2023"
+date-modified: "1 July 2023"
 categories:
   - tools
 ---
@@ -21,19 +22,21 @@ a blog) in much less time.
 
 Also, math support is great: $2+\int_0^1 f(x) dx$. You can also type code: 
 ```{python}
-#| label: fig-polar
-#| fig-cap: "A line plot on a polar axis"
-
+#| label: lab
+#| fig-cap: "Scatter plot of a Gaussian Sobol sample"
+from matplotlib import pyplot as plt
 import numpy as np
-import matplotlib.pyplot as plt
+from scipy import stats
 
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(
-  subplot_kw = {'projection': 'polar'} 
-)
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
+sob = stats.qmc.Sobol(2)
+u = sob.random(4096)  # must be a power of 2
+z = stats.norm.ppf(u)
+x = z
+rho = 0.9
+x[:, 1] += rho * z[:, 0] + np.sqrt(1. - rho**2) * z[:, 1]
+
+plt.figure()
+plt.style.use('ggplot')
+plt.scatter(x[:, 0], x[:, 1], alpha=0.5)
 plt.show()
 ```
