@@ -21,9 +21,7 @@ website:
       - text: "CV"
         href: files/cv.pdf
       - text: "Blog"
-        href: blog.html
-      - icon: rss
-        href: blog.xml
+        href: https://statisfaction-blog.github.io/
 
 format:
   html:

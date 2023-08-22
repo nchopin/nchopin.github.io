@@ -45,7 +45,7 @@ is algorithms to perform Bayesian inference, including:
 On this site you can find more information on the [book](books.html) I
 co-authored on SMC, the python library I am developing,
 [particles](software.html), and a full list of my [publications](papers.html).
-I also [blog](blog.html) from time to time. 
+I also [blog](https://statisfaction-blog.github.io/) from time to time. 
 
 ## Editorial responsibilities
 
