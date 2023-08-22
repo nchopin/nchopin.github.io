@@ -22,6 +22,9 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://linkedin.com/in/nicolas-chopin-442a78102"
+    - text: Wikipedia
+      icon: wikipedia
+      url: "https://en.wikipedia.org/wiki/Nicolas_Chopin"
     - text: Email
       icon: envelope
       href: mailto:nicolas.chopin@ensae.fr
