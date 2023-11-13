@@ -132,12 +132,19 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
 
 * 287, caption of Fig. 15.2: (t)he first $10^5$ simulations
 
+* 290: simply adds an extra step that regenerate(s) the data. (Feras Saad)
+
 * 295, Example 6.1: better behaved tha(n) (Feras Saad)
 
 * 300, Prop 16.1: missing tilde on the $M$ of the proposed kernel (Feras Saad)
 
 * 301^1: $(z/c)$ instead of $(Z/c)$ in the expression of $L(\theta, z)$ (Chihiro
   Kuraya)
+
+* 308-309: capital letters $X$ and $A$ should be respectively $x$ and $a$ in
+  last equation on page 308, and in the expression of $W_t^n$ in the first line
+  of p. 309. Moreover, dot should be a comma at the end of the equation at the 
+  bottom of p. 308.  (Feras Saad)
 
 * 332, second paragraph of 17.2.1: covariance matrix should be set to
   $\lambda^2\hat{\Sigma}_{t-1}$; note the missing square (Mathieu Gerber) In
