@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nchopin.github.io/teaching.html</loc>
-    <lastmod>2023-11-20T17:15:12.207Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nchopin.github.io/software.html</loc>
-    <lastmod>2023-11-20T17:15:11.627Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nchopin.github.io/about.html</loc>
-    <lastmod>2023-11-20T17:15:10.887Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nchopin.github.io/papers.html</loc>
-    <lastmod>2023-11-20T17:15:10.303Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nchopin.github.io/blog.html</loc>
-    <lastmod>2023-11-20T17:15:08.495Z</lastmod>
+    <loc>https://nchopin.github.io/posts/2023-06-27-test/index.html</loc>
+    <lastmod>2023-11-23T11:36:47.173Z</lastmod>
   </url>
   <url>
     <loc>https://nchopin.github.io/book_typos.html</loc>
-    <lastmod>2023-11-20T17:15:08.935Z</lastmod>
+    <lastmod>2023-11-23T11:36:46.677Z</lastmod>
   </url>
   <url>
-    <loc>https://nchopin.github.io/index.html</loc>
-    <lastmod>2023-11-20T17:15:10.627Z</lastmod>
+    <loc>https://nchopin.github.io/blog.html</loc>
+    <lastmod>2023-11-23T11:36:46.197Z</lastmod>
   </url>
   <url>
-    <loc>https://nchopin.github.io/posts/2023-06-27-test/index.html</loc>
-    <lastmod>2023-11-20T17:15:11.355Z</lastmod>
+    <loc>https://nchopin.github.io/software.html</loc>
+    <lastmod>2023-11-23T11:36:45.437Z</lastmod>
   </url>
   <url>
     <loc>https://nchopin.github.io/books.html</loc>
-    <lastmod>2023-11-20T17:15:11.927Z</lastmod>
+    <lastmod>2023-11-23T11:36:44.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nchopin.github.io/papers.html</loc>
+    <lastmod>2023-11-23T11:36:45.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nchopin.github.io/teaching.html</loc>
+    <lastmod>2023-11-23T11:36:45.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nchopin.github.io/index.html</loc>
+    <lastmod>2023-11-23T11:36:46.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nchopin.github.io/about.html</loc>
+    <lastmod>2023-11-23T11:36:46.849Z</lastmod>
   </url>
 </urlset>
