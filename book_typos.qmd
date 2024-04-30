@@ -38,6 +38,11 @@ parentheses).  Feel free to contact me if you find others.
   to obtain a correct expression. (Adrien Corenflos) Also, in light of this,
   the sentence below Prof. 16.6 is a bit daft, and should be ignored. 
 
+* 352, two last paragraphs of Python corner: it's not true that we obtain a
+  $\times k$ speed-up (where $k=$ nr of CPU core), see this blog
+  [post](https://statisfaction-blog.github.io/posts/25-04-2024-numpy-broke-my-heart/numpy-broke-my-heart.html)
+  for more explanation.
+
 # Typos
 
 * 41, second equation: missing $dx_{t-1}$ in the integral (Chihiro Kuraya)
