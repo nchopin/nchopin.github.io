@@ -45,6 +45,10 @@ parentheses).  Feel free to contact me if you find others.
 
 # Typos
 
+* 15, Eq. (2.3): in the first matrix (before $X_{t-1}$), $0_2$ means the
+  $2\times 2$ null matrix; the second term should be a vector, not a matrix, 
+  i.e. $(0_2, U_t^T)^T$ (Andreas Makris)
+
 * 41, second equation: missing $dx_{t-1}$ in the integral (Chihiro Kuraya)
 
 * 44, first equation: $f_t$ should be $f_s$ (Chihiro Kuraya)
