@@ -157,6 +157,9 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
   of p. 309. Moreover, dot should be a comma at the end of the equation at the 
   bottom of p. 308.  (Feras Saad)
 
+* 311, Alg 16.5: in the resampling step, $A_t^{2:N}$ should be sampled from
+  $W_{t-1}^{1:N}$, not $W_{t}^{1:N}$. (Matt Heiner)
+
 * 332, second paragraph of 17.2.1: covariance matrix should be set to
   $\lambda^2\hat{\Sigma}_{t-1}$; note the missing square (Mathieu Gerber) In
   fact, $\lambda$ should be replaced by $\delta$ on that page, since that quantity
