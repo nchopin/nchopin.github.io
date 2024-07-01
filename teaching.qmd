@@ -13,3 +13,10 @@ author_profile: true
 * State-space models and sequential Monte Carlo methods:
   [slides](/files/slides_pf.pdf)
 
+## SMC course
+
+* [slides](/files/slides_smc_short.pdf) for a short (2-3 hours) introductory
+  course on SMC I gave on several occasions; video recording on one of those
+  courses (at CIRM, Marseille) are available on YouTube: [part
+  1](https://www.youtube.com/watch?v=0CpY1WdTkFE) and [part
+  2](https://www.youtube.com/watch?v=uuoGTBy1yH8)
