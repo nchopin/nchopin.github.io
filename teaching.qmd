@@ -6,7 +6,7 @@ author_profile: true
 
 ## ENSAE 
 
-* Introduction aux processus: [poly](/files/poly_processus.pdf)
+* Introduction aux processus: [poly](/files/poly_processus.pdf), [tds](files/enonces_tds_intro_processus.zip)
 
 * simulation and Monte Carlo methods: [slides](/files/slides_mc.pdf)
 
