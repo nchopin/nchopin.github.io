@@ -9,14 +9,13 @@
 <link>https://nchopin.github.io/blog.html</link>
 <atom:link href="https://nchopin.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>NC&#39;s website</description>
-<generator>quarto-1.5.49</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Mon, 26 Jun 2023 22:00:00 GMT</lastBuildDate>
 <item>
   <title>New web-site</title>
   <dc:creator>Nicolas Chopin</dc:creator>
-  <link>https://nchopin.github.io/posts/2023-06-27-test/</link>
+  <link>https://nchopin.github.io/posts/2023-06-27-test/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -108,7 +107,7 @@ font-style: inherit;">0.5</span>)</span>
 <div id="lab" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="https://nchopin.github.io/posts/2023-06-27-test/index_files/figure-html/lab-output-1.png" width="569" height="411" class="figure-img"></p>
-<figcaption>Scatter plot of a Gaussian Sobol sample</figcaption>
+<figcaption class="figure-caption">Scatter plot of a Gaussian Sobol sample</figcaption>
 </figure>
 </div>
 </div>
@@ -118,7 +117,7 @@ font-style: inherit;">0.5</span>)</span>
 
  ]]></description>
   <category>tools</category>
-  <guid>https://nchopin.github.io/posts/2023-06-27-test/</guid>
+  <guid>https://nchopin.github.io/posts/2023-06-27-test/index.html</guid>
   <pubDate>Mon, 26 Jun 2023 22:00:00 GMT</pubDate>
 </item>
 </channel>
