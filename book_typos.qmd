@@ -106,12 +106,18 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
 * 139, first box, 3rd bullet: "P_t >> M_t", should be the reverse: "P_t << M_t";
   also, $P_t(X_t \in dx_{0:t} | \ldots )$ should be $P_t(X_{0:t} \in dx_{0:t} | \ldots )$ (Feras Saad)
 
-* 139: the following Radon-Nykodym derive (s) exist (Adrien Corenflos)
+* 139: the following Radon-Nykodym derivative(s) exist (Adrien Corenflos)
 
 * 144, last line of Example 10.5: the second term should be $\sigma^2[y_t^2
   e^{-\mu^\star(x_{t-1})} - 1] /2$ (Gonzalo Mena)
 
 * 152, (10.4): missing tilde on the $X_{t-1}$ in the second term.
+
+* 157, first displayed equation: missing $\exp$, i.e. Poisson parameter should
+  be $\exp(a_k + b_k'x_t)$ (Kyurae Kim).
+
+* 158: The corresponding Gaussian approximation has mean $x^\star$, and
+  (inverse) variance $-H^\star$ (Kyurae Kim).
 
 * 176: Proposition 11.2 should be Proposition 11.5. (Adam Johansen). 
 
