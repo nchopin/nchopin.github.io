@@ -144,6 +144,8 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
 
 * 283, last paragraph: $O(d^2)$ should be $O(d_{\theta}^2)$ (Feras Saad)
 
+* 285, 9th line from the bottom: inequality should be $\exp(-x) \geq 1 - x$ (Javier Burroni)
+
 * 285, 4th line before Sec 15.5: full conditional should be
   $q_k(\theta(k)|\theta(-k))$ rather than $q(\theta(k)|\theta(-k))$ (Chihiro Kuraya)
 
