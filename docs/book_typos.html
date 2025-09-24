@@ -248,6 +248,7 @@ e^{-\mu^\star(x_{t-1})} - 1] /2\)</span> (Gonzalo Mena)</p></li>
 <li><p>311, Alg 16.5: in the resampling step, <span class="math inline">\(A_t^{2:N}\)</span> should be sampled from <span class="math inline">\(W_{t-1}^{1:N}\)</span>, not <span class="math inline">\(W_{t}^{1:N}\)</span>. (Matt Heiner)</p></li>
 <li><p>332, second paragraph of 17.2.1: covariance matrix should be set to <span class="math inline">\(\lambda^2\hat{\Sigma}_{t-1}\)</span>; note the missing square (Mathieu Gerber) In fact, <span class="math inline">\(\lambda\)</span> should be replaced by <span class="math inline">\(\delta\)</span> on that page, since that quantity was denoted by <span class="math inline">\(\delta\)</span> in Chapter 15, and since letter <span class="math inline">\(\lambda\)</span> means something else in the rest of the chapter (the tempering coefficient).</p></li>
 <li><p>337, Algorithm 17.3, second line of the else block: replace <span class="math inline">\(\Theta_t^n\)</span> by <span class="math inline">\(\Theta_{t-1}^{A_t^n}\)</span> (Adrien Corenflos)</p></li>
+<li><p>341, Algorithm 17.5: third instruction (sampling of <span class="math inline">\(\widetilde{\Theta}\)</span>) should be put <em>before</em> the if statement (where <span class="math inline">\(r\)</span> function is evaluated). (Javier Burroni)</p></li>
 <li><p>342, (17.5): <span class="math inline">\(p_t^\theta\)</span> should be <span class="math inline">\(p_T^\theta\)</span></p></li>
 </ul>
 

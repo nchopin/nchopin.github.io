@@ -176,5 +176,9 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
 
 * 337, Algorithm 17.3, second line of the else block: replace $\Theta_t^n$ by
   $\Theta_{t-1}^{A_t^n}$ (Adrien Corenflos)
+  
+* 341, Algorithm 17.5: third instruction (sampling of $\widetilde{\Theta}$)
+  should be put *before* the if statement (where $r$ function is evaluated).
+  (Javier Burroni)
 
 * 342, (17.5): $p_t^\theta$ should be $p_T^\theta$
