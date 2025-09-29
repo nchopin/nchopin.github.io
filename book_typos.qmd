@@ -182,3 +182,10 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
   (Javier Burroni)
 
 * 342, (17.5): $p_t^\theta$ should be $p_T^\theta$
+
+* 363 (bottom)-364 (top): distribution of $V_t|U_t=u_t$ should be $N(\phi u_t, 1-\phi^2)$,
+  i.e. $\phi$ instead of $\rho$. Same substitution in the distribution of $Y_t$
+  given $X_{t}$ and $X_{t-1}$ (but expression for $u_t$ is correct as is).
+  (Javier Burroni)
+
+* 373: remove 'his' in 'The intuition behind this...' (Javier Burroni)
