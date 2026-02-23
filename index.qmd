@@ -26,7 +26,7 @@ about:
       url: "http://arxiv.org/a/chopin_n_1"
     - text: Email
       icon: envelope
-      href: mailto:nicolas.chopin@ensae.fr
+      href: mailto:nicolas.chopin@math.cnrs.fr
 comments: false
 ---
 
@@ -49,13 +49,16 @@ co-authored on SMC, the python library I am developing,
 [particles](software.html), and a full list of my [publications](papers.html).
 I also [blog](https://statisfaction-blog.github.io/) from time to time. 
 
+## Mail address
+
+It's best to use my cnrs address (first.last@math.cnrs.fr) to email me, as the
+ENSAE mail servers are not reliable.
+
+
 ## Editorial responsibilities
 
-I am currently an Associate editor of the following journals:
+I am currently one of the joint editors of [JRSSB](https://rss.org.uk/news-publication/publications/journals/series-b/). 
 
-* [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
 
-* [Biometrika](https://academic.oup.com/biomet)
-
-I rarely find the time to review papers for other journals, sorry. 
+I do not have the time to review papers for other journals, sorry. 
 

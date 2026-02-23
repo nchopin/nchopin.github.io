@@ -84,11 +84,18 @@
     "text": "I am a Professor of Data Sciences/Statistics/Machine Learning at ENSAE, Institut Polytechnique de Paris.\nI am particularly interested in all aspects of Bayesian computation, that is algorithms to perform Bayesian inference, including:\n\nMonte Carlo methods: particularly Sequential Monte Carlo, but also plain, quasi- and Markov chain Monte Carlo;\nfast approximations: e.g. Expectation Propagation and variational Bayes.\n\nOn this site you can find more information on the book I co-authored on SMC, the python library I am developing, particles, and a full list of my publications. I also blog from time to time."
   },
   {
+    "objectID": "index.html#mail-address",
+    "href": "index.html#mail-address",
+    "title": "Nicolas Chopin",
+    "section": "Mail address",
+    "text": "Mail address\nIt’s best to use my cnrs address (first.last@math.cnrs.fr) to email me, as the ENSAE mail servers are not reliable."
+  },
+  {
     "objectID": "index.html#editorial-responsibilities",
     "href": "index.html#editorial-responsibilities",
     "title": "Nicolas Chopin",
     "section": "Editorial responsibilities",
-    "text": "Editorial responsibilities\nI am currently an Associate editor of the following journals:\n\nAnnals of Statistics\nBiometrika\n\nI rarely find the time to review papers for other journals, sorry."
+    "text": "Editorial responsibilities\nI am currently one of the joint editors of JRSSB.\nI do not have the time to review papers for other journals, sorry."
   },
   {
     "objectID": "posts/2023-06-27-test/index.html",
