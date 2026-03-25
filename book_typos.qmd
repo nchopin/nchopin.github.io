@@ -101,12 +101,18 @@ $W_{t-1}^{1:N}$, not $W_t^{1:N}$ (Chihiro Kuraya)
 
 * 131^4: done in the first too (two) lines... (Yawei Ge).
 
+* 131, grey box: missing $dx_t$ in the Dirac mass (RHS of first and second
+  formulae, Frank van der Meulen)
+
 * 131, grey box: space missing after "approximates". (Omiros)
 
 * 139, first box, 3rd bullet: "P_t >> M_t", should be the reverse: "P_t << M_t";
   also, $P_t(X_t \in dx_{0:t} | \ldots )$ should be $P_t(X_{0:t} \in dx_{0:t} | \ldots )$ (Feras Saad)
 
 * 139: the following Radon-Nykodym derivative(s) exist (Adrien Corenflos)
+
+* 144, Example 10.4: same typo as the one on p. 15, see above (Frank van der
+  Meulen)
 
 * 144, last line of Example 10.5: the second term should be $\sigma^2[y_t^2
   e^{-\mu^\star(x_{t-1})} - 1] /2$ (Gonzalo Mena)
