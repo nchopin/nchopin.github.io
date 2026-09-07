@@ -45,6 +45,9 @@ parentheses).  Feel free to contact me if you find others.
 
 # Typos
 
+* 15, (2.2): $v_{t-1}$ would make more sense (this way, we are able to predict
+  $X_t$ at time $t-1$) (Frank van der Meulen)
+
 * 15, Eq. (2.3): in the first matrix (before $X_{t-1}$), $0_2$ means the
   $2\times 2$ null matrix; the second term should be a vector, not a matrix, 
   i.e. $(0_2, U_t^T)^T$ (Andreas Makris)
